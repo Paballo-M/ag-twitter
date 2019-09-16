@@ -4,7 +4,7 @@ Read two files, user.txt and tweet.txt and create a twitter feed like simulation
 
 ## Getting Started
 
-For development: Only the folder twitter-app is needed. After cloning AG into you local machine, load only twitter-app onto your IDE <br />
+For development: Only the folder twitter-app is needed. After cloning *ag-twitter* into you local machine, load only twitter-app onto your IDE <br />
 Compiled jar: this is a packaged jar of the source code as contained in the twitter-app folder. Run this in command-line, ensure user.txt and tweet.txt are in the same directory as jar
 
 ### Prerequisites
