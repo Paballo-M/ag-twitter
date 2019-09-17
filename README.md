@@ -1,6 +1,6 @@
 # Twitter Feed like simulation
 
-Read two files, user.txt and tweet.txt and create a twitter feed like simulation based on users, their followers and tweets
+Java application that reads two files, **user.txt** and **tweet.txt** and create a twitter feed like simulation based on users, their followers and tweets as read from the two file.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ java -jar twitter-app.jar user.txt tweet.txt
 
 ## Running the tests
 
-In the source-code two Test files are provided, **TestUserService.java** and **TestTweetService.java**, they can triggered with 'Run As.. JUnit Test' Configuration 
+In the source-code two Test files are provided, **TestUserService.java** and **TestTweetService.java**, they can be triggered with 'Run As.. JUnit Test' Configuration 
 <br />NB: You might have to add **JUnit** onto your Build Path
 
 
