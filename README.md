@@ -10,12 +10,13 @@ Compiled jar: this is a packaged jar of the source code as contained in the **tw
 ### Prerequisites
 
 * IDE for source code (twitter-app)
-* At least Java 8
+* At least Java 8 
 * At least JUnit 3
 * NB: when running source-code within the IDE remember to provide Run Configuration Arguments (**user.txt** and **tweet.txt**)
 
 ### Running JAR
-
+NB: Java JDK or JRE required to run jar. Link of how to install JRE: 
+<a href="https://docs.oracle.com/javase/10/install/installation-jdk-and-jre-microsoft-windows-platforms.htm#JSJIG-GUID-A7E27B90-A28D-4237-9383-A58B416071CA">Java Platform, Standard Edition Installation Guide</a>
 In command-line navigate to the folder **compiled-jar**
 execute command:
 ```
